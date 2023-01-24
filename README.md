@@ -31,11 +31,10 @@ program()
 ```
 ### OUTPUT:
 
-![Screenshot 2023-01-24 232452](https://user-images.githubusercontent.com/119433834/214372228-6a37460c-3f9f-4849-99b7-3dacbc97818a.png)
+![Screenshot 2023-01-24 232528](https://user-images.githubusercontent.com/119433834/214372905-b86925da-5f9c-4b26-a3bd-ebff15d689fd.png)
 
 
-![Screenshot 2023-01-24 232258](https://user-images.githubusercontent.com/119433834/214372292-f7e10674-9c1d-4d39-8952-3b8466185daf.png)
-
+![Screenshot 2023-01-24 232452](https://user-images.githubusercontent.com/119433834/214372919-860d6ff2-af7a-40f9-a3cb-2d76b83dd65d.png)
 
 
 ## RESULT:
