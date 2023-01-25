@@ -19,22 +19,25 @@ Run the program.
 end the program
 ## PROGRAM:
 ```
-def program():
-    count=0
-    with open("exp1.txt","r") as f:
-        for data in f:
-            words=data.split()
-            for word in words:
-                count+=1
-    print("Total number of words:",count)
-program()
+## PROGRAM TO COUNT THE NUMBER OF WORDS
+## DEVELOPED BY :vikash s
+## REFERENCE NO :22008879
+
+
+num_words=0
+with open('a.txt','r') as file1:
+    for i in file1:
+        word=i.split()
+        num_words+=len(word)
+print("Number of words= ",num_words)
 ```
-### OUTPUT:
 
-![Screenshot 2023-01-24 232528](https://user-images.githubusercontent.com/119433834/214372905-b86925da-5f9c-4b26-a3bd-ebff15d689fd.png)
+## OUTPUT:
+
+#![WhatsApp Image 2023-01-25 at 18 45 36](https://user-images.githubusercontent.com/119433834/214589527-705fa2e9-c48d-4f12-b5d4-8f13ffcc68e9.jpg)
 
 
-![Screenshot 2023-01-24 232452](https://user-images.githubusercontent.com/119433834/214372919-860d6ff2-af7a-40f9-a3cb-2d76b83dd65d.png)
+![WhatsApp Image 2023-01-25 at 18 36 21](https://user-images.githubusercontent.com/119433834/214589616-b2a8f320-4f80-416e-9ba1-f21f8d24ef65.jpg)
 
 
 ## RESULT:
